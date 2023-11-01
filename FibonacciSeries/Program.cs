@@ -1,4 +1,5 @@
-﻿int firstNum = 0, secodnNum = 1, result = 0, n;
+//Arya Tahery
+int firstNum = 0, secodnNum = 1, result = 0, n;
 Console.WriteLine("n?");
 try
 {
