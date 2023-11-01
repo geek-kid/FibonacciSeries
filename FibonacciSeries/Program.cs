@@ -16,3 +16,4 @@ for (int i = 0; i <= n; i++)
     secodnNum = result;
 }
 Console.WriteLine(result);
+Console.ReadKey();
